@@ -7,16 +7,6 @@ I'm focused on **gameplay programming, multiplayer networking, performance optim
 
 ---
 
-## What I Do
-
-* 🎮 **Gameplay Programming** — gameplay, systems, physics, UI and player interactions
-* 🌐 **Multiplayer** — server-authoritative architecture, synchronization, matchmaking and session management
-* ⚙️ **Backend** — Go services, REST APIs, WebSockets and SQL
-* 🚀 **Performance** — profiling, draw-call optimization and mobile performance
-* 🛠️ **Tools & Infrastructure** — Addressables, Docker, GitHub Actions and custom Unity tools
-
----
-
 ## Featured Work
 
 ### 🥊 Metal Brawlers
@@ -25,10 +15,7 @@ I'm focused on **gameplay programming, multiplayer networking, performance optim
 
 **Highlights:**
 
-* Developed the core gameplay loop
-* Implemented **server-authoritative multiplayer** using FishNet
-* Implemented resilient WebSocket connections with automatic reconnection and recovery
-* Integrated IAP, GameAnalytics, Sentry and Addressables
+* Implemented **server-authoritative multiplayer** using FishNet and Websockets
 * Optimized low-end mobile performance from approximately **10 FPS to a stable 60 FPS**
 * Built multiplayer architecture supporting **30+ concurrent users per session**
 
@@ -43,28 +30,10 @@ A short narrative game developed during GMTK 2026.
 
 **My work:**
 
-* Gameplay programming
 * Core game systems
 * Narrative interactions
-* Rapid prototyping and implementation under a 96-hour deadline
 
 [Play on itch.io](https://frostflak.itch.io/chasing-the-sunset) · [Source Code](https://github.com/FrostFlak/chasing-the-sunset-gmtk2026)
-
----
-
-### 🎵 Zen
-
-**Rhythm game · GameJamPlus 2025 · 48-hour game jam**
-
-A small rhythm game developed in 48 hours.
-
-**My work:**
-
-* Designed the gameplay
-* Implemented the complete gameplay loop
-* Built the game under the 48-hour jam deadline
-
-[Play on itch.io](https://frostflak.itch.io/zen) · [Source Code](https://github.com/FrostFlak/zen-game-jam-plus-2025)
 
 ---
 
